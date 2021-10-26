@@ -2,7 +2,8 @@ To view this dashboard, click [here](https://michaelbodensteiner.github.io/weath
 
 The purpose of this project was to analyze how weather changes the closer a city is to the equator.
 This dashboard conatins a landing page, data visualization pages, a plot comparison page, and a page that shows the data that was used. 
-The visualizations can be naviagated to from the home page as well from in the drop down menu. Each visualization also include explanations for the plotted data.
+The visualizations can be naviagated to from the home page as well from in the drop down menu. Each visualization also includes explanations for the plotted data,
+which consists of comparisons of the max teperature, humidity, cloudiness, and wind speed for each city used. 
 
 Landing page:
 <img width="1678" alt="landing page" src="https://user-images.githubusercontent.com/80362935/138966721-ff1603c7-6659-4c16-89ee-01abd66d7f50.png">
