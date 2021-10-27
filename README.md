@@ -1,3 +1,5 @@
+# Weather Website
+
 ## To view this dashboard, click [here](https://michaelbodensteiner.github.io/weather-website/).
 
 The purpose of this project was to analyze how weather changes the closer a city is to the equator.
